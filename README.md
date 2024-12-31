@@ -1,4 +1,5 @@
-# EFashion Blog
+# Fashion_Blog-CodeCademy_HTMLProj
+[view here](https://nenorvalls.github.io/Fashion_Blog-CodeCademy_HTMLProj/)
 
 A Codecademy courtesy project that showcases the fundamentals of **HTML**.This project focuses on presenting an engaging blog post about New York Fashion Week (NYFW), complete with tips, related content, and contact information.
 
